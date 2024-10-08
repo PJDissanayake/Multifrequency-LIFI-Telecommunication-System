@@ -1,7 +1,5 @@
-Project Name: Ghost-beam Li-Fi Telecommunication System
 
-Description:
-The Ghost-beam Li-Fi Telecommunication System is an ongoing project focused on advancing the field of secure and high-speed wireless communication using light-based technology. This project utilizes a multi-frequency light beam approach, where each frequency represents a single bit of data, resulting in a significantly increased data rate compared to traditional communication methods.
+Multifrequency Li-Fi Telecommunication System is an ongoing project focused on advancing the field of secure and high-speed wireless communication using light-based technology. This project utilizes a multi-frequency light beam approach, where each frequency represents a single bit of data, resulting in a significantly increased data rate compared to traditional communication methods.
 
 The primary objective of this project is to increase the data rate and ensure the highest level of data security, particularly in applications involving confidential information, such as military communication. To achieve this, the project incorporates a special encoding and decoding method specifically designed to enhance data privacy and prevent unauthorized access.
 
